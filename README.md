@@ -4,5 +4,3 @@ add SOME TEXT
 
 
 first task changes
-
-
